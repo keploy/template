@@ -8,7 +8,7 @@ Continuous Integration fosters innovation by ensuring that ongoing improvements 
 
 Two Integration Tools have been identified for Continuous Integration with Keploy:
 
-- Travis CI supports Continuous Integration and testing for Linux.
-- AppVeyor supports Continous Integration and testing for Windows.
+- We use Github Actions to supports Continuous Integration and testing .
+
 
 
