@@ -1,8 +1,6 @@
 # Standard tests
 
-Testing needs to be performed by both developers and maintainers for new or modified code. Developers are expected to perform standard tests before submitting the pull-request, and maintainers also conduct testing when going through the process of assessing a pull-request.
-
-Tests suites should be included in the repositories of existing code, and test suites should be developed for new repositories where tests do not already exist. The standardised test suites are expected to be completed for all pull-requests. A standardised test suite should include:
+Since Keploy is a testing platform that tests itself! We don't write Unit, Integration and System tests. We record and replay the test-cases via Keploy. 
 
 - Unit tests
 - Integration tests
