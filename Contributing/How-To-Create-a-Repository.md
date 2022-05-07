@@ -2,7 +2,7 @@
 
 A repository contains all of your project's files and each file's revision history. You can discuss and manage your project's work within the repository. Keploy uses repositories to store files, revision history, carry out discussions, manage the project work and accept contributions from our diverse contributors. To get started with creating a repository, please follow these steps:
 
-If you are a member of the moja global organization, define a new repository:
+If you are a member of the keploy organization, define a new repository:
 
 - Use a short version of your title as the repository name: Keploy/repository-name.
 - Use the full title as the description of the repository.
