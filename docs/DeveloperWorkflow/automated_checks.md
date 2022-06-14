@@ -22,7 +22,7 @@ choice and runs our test suite. This Continuous
 Integration script is triggered by every pull request and only passes
 when all the tests run successfully. 
 
-   :figure:: ../images/all checks.png
+.. :figure:: ../../images/all checks.png
    :alt: GitHub pull request Checks
    :align: center
    :width: 600px
@@ -32,7 +32,7 @@ when all the tests run successfully.
 -  In the case where tests fail, we can debug the problem from going
    through the console output as displayed here.
 
-.. figure:: ../images/check fails.png
+.. figure:: ../../images/check fails.png
    :alt: GitHub actions Pull Request Build Console
    :align: center
    :width: 600px
