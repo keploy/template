@@ -22,17 +22,17 @@ choice and runs our test suite. This Continuous
 Integration script is triggered by every pull request and only passes
 when all the tests run successfully. 
 
-.. :figure:: ../../images/all checks.png
-   :alt: GitHub pull request Checks
-   :align: center
-   :width: 600px
+<p align="center">
+    <a href="https://github.com/keploy/template"><img src="https://github.com/Ayush7614/template/blob/main/docs/images/all%20checks.png" />
+        </a>
+</p>
 
-   GitHub pull request Checks
+-  GitHub pull request Checks
 
 -  In the case where tests fail, we can debug the problem from going
    through the console output as displayed here.
 
-.. figure:: ../../images/check fails.png
-   :alt: GitHub actions Pull Request Build Console
-   :align: center
-   :width: 600px
+<p align="center">
+    <a href="https://github.com/keploy/template"><img src="check fails.png" />
+        </a>
+</p>
