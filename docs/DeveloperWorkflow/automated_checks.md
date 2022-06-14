@@ -16,7 +16,7 @@ repository.
 Continuous Integration
 ----------------------
 
-Keploy uses `GitHub Actions`_ for Continuous Integration. GitHub
+Keploy uses `GitHub Actions` for Continuous Integration. GitHub
 Actions creates an environment based on the Operating System of your
 choice and runs our test suite. This Continuous
 Integration script is triggered by every pull request and only passes
