@@ -33,6 +33,6 @@ when all the tests run successfully.
    through the console output as displayed here.
 
 <p align="center">
-    <a href="https://github.com/keploy/template"><img src="check fails.png" />
+    <a href="https://github.com/keploy/template"><img src="https://github.com/Ayush7614/template/blob/main/docs/images/check%20fails.png" />
         </a>
 </p>
